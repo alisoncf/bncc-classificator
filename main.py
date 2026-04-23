@@ -9,3 +9,5 @@ labels = [d["labels"] for d in data]
 model, tokenizer, mlb = train_model(textos, labels)
 
 print("Treinamento concluído!")
+
+
