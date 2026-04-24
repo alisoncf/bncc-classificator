@@ -3,3 +3,4 @@ __pycache__/
 .env
 models/
 data/raw/
+models/
